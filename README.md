@@ -1,96 +1,163 @@
-# Hi there! 👋 I'm Mo Ehab
+# Hi there! 👋 I'm Muhammed EHAB
 
-🚀 **AI & Finance Enthusiast | LLM & Computer Vision Engineer**  
-🎓 **Data Scientist | Quantitative Researcher | AI Developer**  
-📍 **Based in Tunisia**  
+🚀 **AI Engineer | Voice AI & Agentic Systems Specialist**  
+🎯 **LLM Expert | Multi-Agent Systems Architect | Real-Time AI Developer**  
+📍 **Based in Tunis, Tunisia**  
 
-Welcome to my GitHub! I am passionate about leveraging **Artificial Intelligence, Large Language Models (LLM), and Computer Vision** to develop innovative solutions in **finance, autonomous systems, and urban planning**. I am also interested in **quantitative finance, algorithmic trading, and AI-driven optimization techniques**.  
-
----
-
-## 🧠 About Me  
-
-- 💡 I am building **AI-powered financial systems** to automate and optimize **crypto portfolio management**.
-- 🔍 I specialize in **LLM-based multi-agent systems** that can enhance decision-making in finance and urban planning.
-- 🎯 I have experience in **deep learning, computer vision**, and **graph neural networks (GNNs)** for urban infrastructure analysis.
-- 📈 I am currently working on **convex portfolio optimization** using **machine learning in finance**.
-- 🔬 I am actively researching **multi-modal AI models** for real-world applications.
+Welcome to my GitHub! I specialize in building **cutting-edge AI systems** with a focus on **Large Language Models (LLMs), Voice AI, and Multi-Agent architectures**. My expertise spans **MCP/ACP protocols, Agent-to-Agent (A2A) communication**, and developing **real-time conversational AI** solutions.
 
 ---
 
-## 🚀 What I'm Currently Working On  
+## 🧠 About Me
 
-### 🔹 **AI-Powered Finance & Crypto Portfolio Management**  
-- Developing a **multi-agent AI system** for **automated crypto portfolio optimization**.  
-- Implementing **reinforcement learning** for **trading strategies**.  
-- Using **quantitative finance techniques** such as **Markowitz optimization, risk management, and statistical arbitrage**.  
-
-### 🔹 **LLM & NLP for AI Agents**  
-- Building **RAG-based LLM systems** for **automated financial data analysis**.  
-- Fine-tuning **transformer-based models** for **domain-specific AI applications**.  
-- Exploring **LLM distillation techniques** to create efficient **small language models (SLMs)**.  
-
-### 🔹 **Computer Vision & Smart Cities**  
-- Creating **deep learning models** for **autonomous vehicle safety** and **urban infrastructure analysis**.  
-- Using **Graph Neural Networks (GNNs)** to optimize **transportation networks** and **smart city planning**.  
-- Working on **tumor detection AI models** for **medical imaging applications**.  
+- 🎙️ Pioneering **Voice AI technologies** with real-time speech-to-speech systems and neural TTS/STT integration
+- 🤖 Expert in **Agentic AI** and **Multi-Agent Systems** using frameworks like LangChain, CrewAI, and Agno
+- 🔊 Building **voice-to-call automation** systems that enable AI to conduct natural phone conversations
+- 🌐 Implementing **Model Context Protocol (MCP)** and **ACP** for advanced AI agent communication
+- 💡 Developing **production-ready AI solutions** for finance, education, and travel industries
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🚀 Current Projects & Achievements
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
+### 🏆 **Travel Buddy - Hackathon Winner (2025)**
+- Built an **AI Booking Agent** in 48 hours using **Twilio, ElevenLabs, and n8n**
+- Implemented **voice-to-call automation** for real-time hotel reservations
+- Integrated **Google Maps** and **Amadeus API** for comprehensive travel planning
+- [View Project](#) 
 
+### 🎤 **Real-Time Speech-to-Speech AI Chatbot (2025)**
+- Developed cascading system with **Whisper ASR + Silero VAD**
+- Integrated **Llama 3.1 8B** via Ollama and **Kokoro-82M ONNX** for neural TTS
+- Built extensible agent framework with **Agno LLM** and web tool integration
+- [View Project](#)
 
-### **AI & Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat-square&logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=flat-square&logo=data:image/png;base64,iVBORw0K...)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square)  
-![yFinance](https://img.shields.io/badge/yFinance-1E90FF?style=flat-square)  
-
-
-### **Finance & Optimization**  
-![QuantLib](https://img.shields.io/badge/QuantLib-FFD700?style=flat-square&logo=quantlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat-square&logo=matplotlib&logoColor=white)
+### 🗣️ **AI Voice Assistant with Open-Source LLM (2024)**
+- Full-stack application with **FastAPI** backend and **React Next.js** frontend
+- Real-time **WebSocket** communication for bidirectional audio streaming
+- Integrated **Deepgram** for STT/TTS and **Llama 3** via Groq for NLP
+- [View Project](#)
 
 ---
 
-## 📈 GitHub Stats  
+## 💼 Professional Experience
+
+### **PWC** - AI Engineering Intern (JAN 2025 – JUN 2025)
+🔹 Building **Smart Documentation Crawler** with semantic search using **MCP**  
+🔹 Developing Python-based MCP server for intelligent document querying  
+🔹 Integrating with **LLM clients** like Cursor for advanced search capabilities  
+
+### **AXE-FINANCE** - AI Developer (JUN 2024 – OCT 2024)
+🔹 Fine-tuned **LLaVA vision-language model** for financial document extraction  
+🔹 Built **multi-agent AI system** for end-to-end document processing  
+🔹 Delivered scalable solution for structured financial reporting  
+
+### **TALENT-AI** - Full-Stack AI Developer (JUN 2023 – SEP 2023)
+🔹 Developed **Prepwise** - AI-powered interview preparation platform  
+🔹 Integrated **Vapi voice agents** and **Google Gemini** for mock interviews  
+🔹 Built real-time feedback system with **Firebase** and **Next.js**  
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+### **LLMs & Voice AI**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0084FF?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=flat-square)
+![Deepgram](https://img.shields.io/badge/Deepgram-13AA52?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6B6B?style=flat-square)
+
+### **Agent Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3A5F?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
+![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square)
+
+### **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehab-hadrami&show_icons=true&theme=radical" alt="Ehab's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehab-hadrami&theme=dark" alt="Ehab's GitHub streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehab-hadrami&layout=compact&theme=dark" alt="Ehab's GitHub top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-ehab&show_icons=true&theme=radical" alt="Mo Ehab's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-ehab&theme=dark" alt="Mo Ehab's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ehab&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📚 Featured Projects  
+## 🏆 Key Achievements
 
-🚀 **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](https://github.com/ehab-hadrami/llm-crypto-agent)**  
-🔹 Building an AI-powered crypto portfolio optimizer using LLM and reinforcement learning.  
-
-🏗 **[Urban Planning with AI & Computer Vision](https://github.com/ehab-hadrami/urban-ai)**  
-🔹 Using deep learning and GNNs for smart city infrastructure development.  
-
-🩺 **[Tumor Detection with AI](https://github.com/ehab-hadrami/tumor-detection-ai)**  
-🔹 Applying CNNs for early-stage tumor detection in medical imaging.  
+- 🥇 **Hackathon Winner 2025** - Travel Buddy AI Assistant
+- 🎯 **Voice AI Pioneer** - Developed 3+ production-ready voice AI systems
+- 🤖 **Multi-Agent Expert** - Built complex agent systems for finance and education
+- 📈 **LLM Specialist** - Fine-tuned and deployed multiple LLMs in production
+- 🔧 **MCP/ACP Implementation** - Early adopter of Model Context Protocol
 
 ---
 
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-hadrami)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ehab.hadrami@example.com)  
+## 📚 Featured Repositories
+
+### 🎙️ [**Vocal-Agent**](https://github.com/mo-ehab/vocal-agent)
+Real-time cascading speech-to-speech chatbot with Whisper, Llama, and neural TTS
+
+### ✈️ [**Travel-Buddy**](https://github.com/mo-ehab/travel-buddy)
+AI-powered travel assistant with voice-to-call booking automation
+
+### 🗣️ [**AI-Voice-Assistant**](https://github.com/mo-ehab/ai-voice-assistant)
+Full-stack voice assistant with open-source LLM integration
+
+### 📚 [**MCP-Documentation-Crawler**](https://github.com/mo-ehab/mcp-crawler)
+Smart documentation crawler with semantic search using Model Context Protocol
+
+### 💼 [**LLaVA-Finance**](https://github.com/mo-ehab/llava-finance)
+Fine-tuned vision-language model for financial document extraction
 
 ---
 
-🔥 _"Shaping the Future of AI in Finance & Urban Innovation."_ 🚀
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-ehab-86ba952b2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammed35ehab@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](#)
+
+---
+
+### 🎯 Current Focus
+- 🔊 Advanced **Voice AI** and **Real-time Communication** systems
+- 🤝 **Agent-to-Agent (A2A)** communication protocols
+- 🧠 **Multi-modal AI** integration (Vision + Language + Speech)
+- 🚀 **Production-ready AI** deployment strategies
+
+---
+
+🔥 **"Building the future of conversational AI, one voice at a time."** 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mo-ehab&color=blueviolet" alt="Profile views"/>
+</p>
