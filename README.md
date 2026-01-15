@@ -712,21 +712,6 @@ Speech-to-speech and conversational AI systems
 </table>
 
 </div>
-
-### 🎯 2026 Goals
-
-<div align="center">
-
-![](https://geps.dev/progress/75?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **75%** - Multi-Agent Systems Mastery
-
-![](https://geps.dev/progress/60?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **60%** - AWS Solutions Architect Certification
-
-![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **85%** - Production RAG Implementations
-
-![](https://geps.dev/progress/50?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **50%** - Open Source Contributions
-
-</div>
-
 ---
 
 ## 📝 Latest Blog Posts & Articles
@@ -748,15 +733,3 @@ Speech-to-speech and conversational AI systems
 ---
 
 <div align="center">
-
-### 💬 "Building the future of AI, one agent at a time"
-
-![Visitor Count](https://profile-counter.glitch.me/muhammedehab35/count.svg)
-
-**⭐️ If you find my work valuable, consider starring some repositories!**
-
----
-
-*Last Updated: January 2026*
-
-</div>
