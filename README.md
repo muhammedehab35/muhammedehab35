@@ -18,30 +18,63 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 Who I Am
+
 Experienced **AI Specialist Engineer** with a proven track record in building **intelligent systems**, **multi-agent architectures**, and **enterprise automation solutions**. I specialize in leveraging cutting-edge AI technologies to create production-ready applications that solve complex real-world problems.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohamed Ehab"
-        self.role = "AI Specialist Engineer"
-        self.location = "Tunis, Tunisia"
-        self.workspace = "Remote"
-        
-    def get_expertise(self):
-        return {
-            "AI_Frameworks": ["LangChain", "CrewAI", "AutoGen", "LangGraph"],
-            "LLMs": ["GPT-4", "Claude", "Llama 3.1", "Qwen-2.5", "FLAN-T5"],
-            "Cloud_AI": ["AWS Bedrock", "Amazon Textract", "S3", "Lambda"],
-            "Automation": ["n8n", "Make", "Zapier"],
-            "Specialties": ["RAG Systems", "Multi-Agent", "Voice AI", "Fine-tuning"]
-        }
+### 🎯 What I Do
+
+- 🔭 **Building** production-ready multi-agent systems and RAG architectures
+- 🌱 **Learning** advanced prompt engineering, LLM optimization, and distributed AI systems
+- 💼 **Open to** collaboration on AI projects, consulting, and freelance opportunities
+- 🎯 **Mission** making AI accessible and practical for businesses worldwide
+
+</td>
+<td width="40%">
+
+### 🛠️ Quick Stack Overview
+
+```mermaid
+mindmap
+  root((AI Stack))
+    Frameworks
+      LangChain
+      CrewAI
+      AutoGen
+      LangGraph
+    LLMs
+      GPT-4
+      Claude
+      Llama 3.1
+      Qwen-2.5
+    Cloud
+      AWS Bedrock
+      Textract
+      Lambda
+    Tools
+      n8n
+      Make
+      Voice AI
 ```
 
-- 🔭 **Current Focus**: Building production-ready multi-agent systems and RAG architectures
-- 🌱 **Learning**: Advanced prompt engineering, LLM optimization, and distributed AI systems
-- 💼 **Open to**: Collaboration on AI projects, consulting, and freelance opportunities
-- 🎯 **Mission**: Making AI accessible and practical for businesses worldwide
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 Expertise Areas
+
+[![AI Frameworks](https://img.shields.io/badge/🤖_AI_Frameworks-LangChain_•_CrewAI_•_AutoGen-blue?style=for-the-badge)](https://github.com/muhammedehab35)
+[![LLMs](https://img.shields.io/badge/🧠_LLMs-GPT--4_•_Claude_•_Llama-purple?style=for-the-badge)](https://github.com/muhammedehab35)
+[![Cloud](https://img.shields.io/badge/☁️_Cloud-AWS_Bedrock_•_Lambda-orange?style=for-the-badge)](https://github.com/muhammedehab35)
+[![Automation](https://img.shields.io/badge/🔄_Automation-n8n_•_Make_•_Zapier-green?style=for-the-badge)](https://github.com/muhammedehab35)
+
+</div>
 
 ---
 
@@ -522,16 +555,109 @@ Computer vision system for Tunisian license plate detection and recognition.
 
 ## 💼 Professional Services
 
-### What I Offer:
+<div align="center">
 
-- 🎯 **AI Solution Architecture** - Design and implement enterprise AI systems
-- 🤖 **Multi-Agent Development** - Build autonomous agent systems for complex workflows
-- 📊 **RAG Implementation** - Create scalable retrieval-augmented generation systems
-- 🔄 **Automation Consulting** - n8n workflow design and optimization
-- 🎓 **LLM Fine-tuning** - Custom model training and optimization
-- 🗣️ **Voice AI Development** - Speech-to-speech and conversational AI systems
-- ☁️ **AWS Bedrock Integration** - Cloud AI deployment and scaling
-- 🔧 **Custom Integration** - API development and system integration
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80" height="80" alt="AI Solutions"/>
+
+### 🎯 AI Solution Architecture
+Design and implement enterprise AI systems with scalable architecture
+
+**Services Include:**
+- System Design & Planning
+- Technology Stack Selection
+- Performance Optimization
+- Security Implementation
+
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/bot.png" width="80" height="80" alt="Multi-Agent"/>
+
+### 🤖 Multi-Agent Development
+Build autonomous agent systems for complex workflows
+
+**Services Include:**
+- Agent System Design
+- Workflow Orchestration
+- Task Automation
+- Integration Development
+
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="80" height="80" alt="Cloud AI"/>
+
+### ☁️ AWS Bedrock Integration
+Cloud AI deployment and scaling solutions
+
+**Services Include:**
+- Bedrock Setup & Config
+- Model Deployment
+- Cost Optimization
+- Performance Tuning
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/document.png" width="80" height="80" alt="RAG Systems"/>
+
+### 📊 RAG Implementation
+Create scalable retrieval-augmented generation systems
+
+**Services Include:**
+- Vector DB Setup
+- Embedding Optimization
+- Query Enhancement
+- System Integration
+
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="80" height="80" alt="Automation"/>
+
+### 🔄 Automation Consulting
+n8n workflow design and optimization
+
+**Services Include:**
+- Workflow Design
+- Custom Node Development
+- API Integration
+- Process Optimization
+
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/microphone.png" width="80" height="80" alt="Voice AI"/>
+
+### 🗣️ Voice AI Development
+Speech-to-speech and conversational AI systems
+
+**Services Include:**
+- Voice Interface Design
+- Real-time Processing
+- TTS/STT Integration
+- Multi-language Support
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 📞 Let's Work Together
+
+[![Hire Me](https://img.shields.io/badge/💼_Available_for_Freelance-Hire_Me-success?style=for-the-badge)](mailto:your.email@example.com)
+[![Consulting](https://img.shields.io/badge/📊_AI_Consulting-Book_a_Call-blue?style=for-the-badge)](https://calendly.com/your-link)
+[![Collaboration](https://img.shields.io/badge/🤝_Open_to_Collaborate-Let's_Build-orange?style=for-the-badge)](https://github.com/muhammedehab35)
+
+</div>
 
 ---
 
@@ -551,28 +677,67 @@ Computer vision system for Tunisian license plate detection and recognition.
 
 ## 💡 Current Focus Areas
 
-```javascript
-const currentFocus = {
-    learning: [
-        "Advanced Multi-Agent Architectures",
-        "Enterprise RAG Systems",
-        "LLM Optimization Techniques",
-        "Distributed AI Systems"
-    ],
-    building: [
-        "Production-ready AI Agents",
-        "Scalable RAG Solutions",
-        "Voice-enabled Applications",
-        "Custom n8n Integrations"
-    ],
-    exploring: [
-        "Anthropic's Claude API",
-        "LangGraph for complex workflows",
-        "AWS Bedrock advanced features",
-        "Real-time AI applications"
-    ]
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/learning.png" width="64" height="64" alt="learning"/>
+
+### 📚 Learning
+- Advanced Multi-Agent Architectures
+- Enterprise RAG Systems
+- LLM Optimization
+- Distributed AI
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="64" height="64" alt="building"/>
+
+### 🚀 Building
+- Production AI Agents
+- Scalable RAG Solutions
+- Voice Applications
+- n8n Integrations
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/search.png" width="64" height="64" alt="exploring"/>
+
+### 🔍 Exploring
+- Anthropic Claude API
+- LangGraph Workflows
+- AWS Bedrock Features
+- Real-time AI Apps
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="64" height="64" alt="contributing"/>
+
+### 💻 Contributing
+- Open-Source AI Tools
+- Community Projects
+- Documentation
+- Code Reviews
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎯 2026 Goals
+
+<div align="center">
+
+![](https://geps.dev/progress/75?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **75%** - Multi-Agent Systems Mastery
+
+![](https://geps.dev/progress/60?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **60%** - AWS Solutions Architect Certification
+
+![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **85%** - Production RAG Implementations
+
+![](https://geps.dev/progress/50?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) **50%** - Open Source Contributions
+
+</div>
 
 ---
 
