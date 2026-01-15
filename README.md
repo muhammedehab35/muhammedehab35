@@ -1,123 +1,609 @@
-# 👋 Hi, I'm Mo Ehab
+<div align="center">
 
-## 🤖 AI Specialist Engineer | Multi-Agent Systems | Automation Enthusiast
+# 👨‍💻 Mohamed Ehab
 
-### 📍 Based in Tunisia, Ariana
-### 💼 Working from home
+### AI Specialist Engineer | Multi-Agent Systems Architect | Automation Expert
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Multi-Agent+Systems+Developer;AWS+Bedrock+Specialist;n8n+Automation+Expert;Voice+AI+Developer)](https://git.io/typing-svg)
+
+📍 **Tunis, Tunisia** | 🏠 **Remote Work** | 🌍 **AI Specialist Engineer**
+
+[![GitHub followers](https://img.shields.io/github/followers/muhammedehab35?label=Followers&style=social)](https://github.com/muhammedehab35?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/muhammedehab35?label=Stars&style=social)](https://github.com/muhammedehab35)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammedehab35&color=blue&style=flat)](https://github.com/muhammedehab35)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm an AI Specialist Engineer passionate about building intelligent systems, multi-agent architectures, and automation solutions. My expertise spans from conversational AI and document processing to advanced RAG systems and LLM fine-tuning.
+Experienced **AI Specialist Engineer** with a proven track record in building **intelligent systems**, **multi-agent architectures**, and **enterprise automation solutions**. I specialize in leveraging cutting-edge AI technologies to create production-ready applications that solve complex real-world problems.
 
-- 🔭 Currently working on intelligent automation and AI-powered solutions
-- 🌱 Specializing in Multi-Agent Systems, NLP, and Computer Vision
-- 💡 Interested in AWS Bedrock, LangChain, n8n automation, and open-source LLMs
-- 🎯 Building practical AI applications that solve real-world problems
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Mohamed Ehab"
+        self.role = "AI Specialist Engineer"
+        self.location = "Tunis, Tunisia"
+        self.workspace = "Remote"
+        
+    def get_expertise(self):
+        return {
+            "AI_Frameworks": ["LangChain", "CrewAI", "AutoGen", "LangGraph"],
+            "LLMs": ["GPT-4", "Claude", "Llama 3.1", "Qwen-2.5", "FLAN-T5"],
+            "Cloud_AI": ["AWS Bedrock", "Amazon Textract", "S3", "Lambda"],
+            "Automation": ["n8n", "Make", "Zapier"],
+            "Specialties": ["RAG Systems", "Multi-Agent", "Voice AI", "Fine-tuning"]
+        }
+```
+
+- 🔭 **Current Focus**: Building production-ready multi-agent systems and RAG architectures
+- 🌱 **Learning**: Advanced prompt engineering, LLM optimization, and distributed AI systems
+- 💼 **Open to**: Collaboration on AI projects, consulting, and freelance opportunities
+- 🎯 **Mission**: Making AI accessible and practical for businesses worldwide
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technology Stack
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Cloud & Infrastructure
+</div>
+
+**Frameworks & Libraries:**
+- **LangChain** | **LangGraph** | **LlamaIndex** - LLM orchestration and RAG
+- **CrewAI** | **AutoGen** - Multi-agent systems
+- **PEFT** | **LoRA** | **QLoRA** - Efficient fine-tuning
+- **Transformers** | **Sentence-Transformers** - NLP models
+- **FAISS** | **ChromaDB** | **Pinecone** - Vector databases
+- **Gradio** | **Streamlit** - AI app interfaces
+
+### ☁️ Cloud & Infrastructure
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Automation & Integration
+</div>
+
+**Services:**
+- **AWS Bedrock** - Claude, Llama, Mistral deployment
+- **Amazon Textract** - Document intelligence
+- **Amazon Comprehend** - NLP services
+- **AWS Lambda** - Serverless computing
+- **S3** | **EC2** | **SageMaker**
+
+### 🔄 Automation & Integration
+
+<div align="center">
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Development
+</div>
+
+**Platforms:**
+- **n8n** - Workflow automation (Expert level)
+- **Make** | **Zapier** - Integration platforms
+- **REST APIs** | **GraphQL** - API development
+- **Webhooks** | **Event-driven architecture**
+
+### 🗣️ Voice & Speech AI
+
+<div align="center">
+
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+**Technologies:**
+- **OpenAI Whisper** - Speech-to-Text
+- **ElevenLabs** | **Azure TTS** - Text-to-Speech
+- **Deepgram** | **AssemblyAI** - Real-time transcription
+- **Rasa** | **Dialogflow** - Conversational AI
+
+### 📱 Mobile & Web Development
+
+<div align="center">
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Data Processing
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+### 🧪 LLM Models Experience
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+**Models:**
+- **GPT-4** | **GPT-4 Turbo** | **GPT-3.5**
+- **Claude 3.5 Sonnet** | **Claude 3 Opus**
+- **Llama 3.1 (8B, 70B, 405B)**
+- **Qwen-2.5** | **FLAN-T5** | **Mistral 7B**
+- **Gemini Pro** | **PaLM 2**
 
 ---
 
-## 🎯 Featured Projects
+## 📊 GitHub Statistics
 
-### 🤖 AI Agents & Multi-Agent Systems
-- **[BTP Multi-Agent Construction Management System](https://github.com/muhammedehab35/BTP-Multi-Agent-Construction-Management-System)** - Advanced construction management using AI agents
-- **[MCP AI Chat Interface](https://github.com/muhammedehab35/MCP-AI-Chat-Interface)** - Model Context Protocol based chat interface
-- **[Finance Agent](https://github.com/muhammedehab35/FINANCE_AGENT)** - Intelligent financial analysis assistant
-- **[Lead Qualification Scoring System](https://github.com/muhammedehab35/Lead-Qualification-Scoring-System-n8n_Agent)** - Automated lead scoring with n8n
+<div align="center">
 
-### 📄 Document Processing & RAG
-- **[SmartDoc AI Assistant](https://github.com/muhammedehab35/SmartDoc-AI-Assistant)** - Intelligent document analysis system
-- **[VisionExtract AI](https://github.com/muhammedehab35/VisionExtract-AI-Advanced-Document-Data-Extraction-using-Fine-tuned-Qwen-2.5-7B)** - Advanced document data extraction with fine-tuned Qwen-2.5-7B
-- **[Scalable RAG Solution with AWS Bedrock](https://github.com/muhammedehab35/Scalable-RAG-Solution-with-AWS-Bedrock-Integration)** - Enterprise-grade RAG implementation
-- **[Document Analysis AI Agent with AWS](https://github.com/muhammedehab35/Document-Analysis-AI-Agent-with-AWS)** - Cloud-based document intelligence
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedehab35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedehab35&layout=compact&langs_count=8&theme=tokyonight"/>
 
-### 🗣️ Voice & Conversational AI
-- **[Real-Time Speech-to-Speech by Ollama](https://github.com/muhammedehab35/REAL-TIME-SPEECH-TO-SPEECH-BY-OLLAMA-MODELS)** - Low-latency voice communication
-- **[AI Voice Assistant](https://github.com/muhammedehab35/AI-VOICE-ASSISTANT-BY-OPEN-SOURCE-LLM)** - Open-source voice assistant
-- **[Android AI Assistant by n8n](https://github.com/muhammedehab35/ANDROID-AI-ASSISTANT-BY-N8N)** - Mobile AI assistant integration
-- **[Interior Design Voice AI Agent](https://github.com/muhammedehab35/Interior-Design-Voice-AI-Agent)** - Domain-specific voice assistant
+</div>
 
-### 🔧 Tools & Integrations
-- **[DB MCP Gateway](https://github.com/muhammedehab35/DB_MCP_GATEWAY)** - Database integration gateway
-- **[JSON2TOON MCP](https://github.com/muhammedehab35/JSON2TOON-MCP)** - JSON to visualization converter
-- **[n8n CRM Connector for Teamleader](https://github.com/muhammedehab35/n8n-CRM-Connector-for-Teamleader)** - Custom n8n node for CRM integration
+<div align="center">
 
-### 🧠 LLM & Fine-tuning
-- **[Fine-tune FLAN-T5 for Text Summarization](https://github.com/muhammedehab35/fine-tun-FLAN-T5-for-text-summarisation-task-using-PEFT-approach.)** - PEFT approach for efficient fine-tuning
-- **[AWS Bedrock with Llama 3.1 405B](https://github.com/muhammedehab35/AWS-Bedrock-Service-Implementation-using-Llama-3.1-405B)** - Large-scale LLM deployment
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedehab35&theme=tokyonight)](https://git.io/streak-stats)
 
-### 🎓 Education & Learning
-- **[CourseGenius](https://github.com/muhammedehab35/CourseGenius)** - AI-powered course creation platform
-- **[Prompt Engineering Projects](https://github.com/muhammedehab35/PROMPT_ENGINEERING_PROJECTS)** - Collection of prompt engineering experiments
+</div>
 
-### 🏥 Specialized Applications
-- **[Diag Health Agent](https://github.com/muhammedehab35/DIAG_HEALTH_AGENT)** - Medical diagnostic assistant
-- **[Tunisia License Plate Recognition](https://github.com/muhammedehab35/TUNUSIA_LICENSE_PLATE-RECOGNITION)** - Computer vision for local context
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedehab35&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedehab35&show_icons=true&theme=radical)
+### 🤖 Multi-Agent Systems & AI Orchestration
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedehab35&layout=compact&theme=radical)
+<table>
+<tr>
+<td width="50%">
+
+#### [BTP Multi-Agent Construction Management](https://github.com/muhammedehab35/BTP-Multi-Agent-Construction-Management-System)
+Advanced multi-agent system for construction project management with autonomous task coordination and decision-making capabilities.
+
+**Tech:** Python, CrewAI, LangChain, AWS
+⭐ Stars: 2 | 📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [MCP AI Chat Interface](https://github.com/muhammedehab35/MCP-AI-Chat-Interface)
+Model Context Protocol implementation for seamless AI chat interactions with advanced context management.
+
+**Tech:** Python, MCP, FastAPI
+⭐ Stars: 2 | 📝 MIT License
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [Finance Agent](https://github.com/muhammedehab35/FINANCE_AGENT)
+Intelligent financial analysis assistant with real-time data processing and autonomous decision support.
+
+**Tech:** Python, LangChain, APIs
+⭐ Stars: 5
+
+</td>
+<td width="50%">
+
+#### [Lead Qualification Scoring System](https://github.com/muhammedehab35/Lead-Qualification-Scoring-System-n8n_Agent)
+Automated lead scoring system using n8n workflow automation and AI-powered analysis.
+
+**Tech:** HTML, n8n, AI APIs
+⭐ Stars: 2
+
+</td>
+</tr>
+</table>
+
+### 📄 RAG & Document Intelligence
+
+<table>
+<tr>
+<td width="50%">
+
+#### [SmartDoc AI Assistant](https://github.com/muhammedehab35/SmartDoc-AI-Assistant)
+Enterprise-grade document analysis system with RAG capabilities and intelligent Q&A.
+
+**Tech:** Python, LangChain, Vector DB
+📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [VisionExtract AI](https://github.com/muhammedehab35/VisionExtract-AI-Advanced-Document-Data-Extraction-using-Fine-tuned-Qwen-2.5-7B)
+Advanced document extraction using fine-tuned Qwen-2.5-7B with vision capabilities.
+
+**Tech:** Python, Qwen, Fine-tuning
+⭐ Stars: 7
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [Scalable RAG with AWS Bedrock](https://github.com/muhammedehab35/Scalable-RAG-Solution-with-AWS-Bedrock-Integration)
+Production-ready RAG system leveraging AWS Bedrock for enterprise deployment.
+
+**Tech:** Python, AWS Bedrock, S3
+⭐ Stars: 7 | 📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [Document Analysis AI Agent](https://github.com/muhammedehab35/Document-Analysis-AI-Agent-with-AWS)
+Cloud-based document intelligence using AWS Textract and AI analysis.
+
+**Tech:** Python, AWS Textract, Lambda
+
+</td>
+</tr>
+</table>
+
+### 🗣️ Voice AI & Speech Systems
+
+<table>
+<tr>
+<td width="50%">
+
+#### [Real-Time Speech-to-Speech](https://github.com/muhammedehab35/REAL-TIME-SPEECH-TO-SPEECH-BY-OLLAMA-MODELS)
+Low-latency voice communication system using Ollama models for real-time translation.
+
+**Tech:** Python, Ollama, Whisper
+⭐ Stars: 1 | 📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [AI Voice Assistant](https://github.com/muhammedehab35/AI-VOICE-ASSISTANT-BY-OPEN-SOURCE-LLM)
+Open-source voice assistant with natural conversation capabilities.
+
+**Tech:** Python, Open-source LLMs
+⭐ Stars: 1 | 📝 MIT License
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [Android AI Assistant (n8n)](https://github.com/muhammedehab35/ANDROID-AI-ASSISTANT-BY-N8N)
+Mobile AI assistant integrated with n8n for workflow automation.
+
+**Tech:** Dart, Flutter, n8n
+⭐ Stars: 1 | 🔄 Forks: 1
+
+</td>
+<td width="50%">
+
+#### [Interior Design Voice AI](https://github.com/muhammedehab35/Interior-Design-Voice-AI-Agent)
+Specialized voice agent for interior design consultations and recommendations.
+
+**Tech:** Python, Voice AI
+📝 MIT License
+
+</td>
+</tr>
+</table>
+
+### 🔧 Tools, Integrations & Infrastructure
+
+<table>
+<tr>
+<td width="50%">
+
+#### [DB MCP Gateway](https://github.com/muhammedehab35/DB_MCP_GATEWAY)
+Database integration gateway using Model Context Protocol for seamless data access.
+
+**Tech:** TypeScript, MCP
+⭐ Stars: 1 | 📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [JSON2TOON MCP](https://github.com/muhammedehab35/JSON2TOON-MCP)
+Converts JSON data structures into visual cartoons and diagrams.
+
+**Tech:** Python, Visualization
+⭐ Stars: 2 | 📝 MIT License
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [n8n CRM Connector (Teamleader)](https://github.com/muhammedehab35/n8n-CRM-Connector-for-Teamleader)
+Custom n8n node for Teamleader CRM integration with advanced features.
+
+**Tech:** TypeScript, n8n
+📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [AI Translator](https://github.com/muhammedehab35/AI_TRANSLATOR)
+Multi-language translation system powered by AI with context awareness.
+
+**Tech:** Python, Translation APIs
+⭐ Stars: 1
+
+</td>
+</tr>
+</table>
+
+### 🧠 LLM Fine-tuning & Training
+
+<table>
+<tr>
+<td width="50%">
+
+#### [FLAN-T5 Fine-tuning (PEFT)](https://github.com/muhammedehab35/fine-tun-FLAN-T5-for-text-summarisation-task-using-PEFT-approach.)
+Efficient fine-tuning of FLAN-T5 for text summarization using PEFT approach.
+
+**Tech:** Jupyter, PEFT, LoRA
+⭐ Stars: 2 | 📝 MIT License
+
+</td>
+<td width="50%">
+
+#### [AWS Bedrock + Llama 3.1 405B](https://github.com/muhammedehab35/AWS-Bedrock-Service-Implementation-using-Llama-3.1-405B)
+Large-scale LLM deployment using AWS Bedrock infrastructure.
+
+**Tech:** Python, AWS Bedrock
+📝 MIT License
+
+</td>
+</tr>
+</table>
+
+### 🎓 Education & Specialized Apps
+
+<table>
+<tr>
+<td width="50%">
+
+#### [CourseGenius](https://github.com/muhammedehab35/CourseGenius)
+AI-powered platform for automated course creation and curriculum design.
+
+**Tech:** JavaScript, AI APIs
+⭐ Stars: 7
+
+</td>
+<td width="50%">
+
+#### [Prompt Engineering Projects](https://github.com/muhammedehab35/PROMPT_ENGINEERING_PROJECTS)
+Collection of advanced prompt engineering techniques and experiments.
+
+**Tech:** Various
+⭐ Stars: 1
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [Diag Health Agent](https://github.com/muhammedehab35/DIAG_HEALTH_AGENT)
+Medical diagnostic assistant using AI for preliminary health assessments.
+
+**Tech:** Python, Medical NLP
+⭐ Stars: 3
+
+</td>
+<td width="50%">
+
+#### [Tunisia License Plate Recognition](https://github.com/muhammedehab35/TUNUSIA_LICENSE_PLATE-RECOGNITION)
+Computer vision system for Tunisian license plate detection and recognition.
+
+**Tech:** Python, OpenCV, YOLO
+⭐ Stars: 1 | 📝 MIT License
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Areas of Expertise
+## 🎯 Core Competencies
 
-- **Multi-Agent Systems**: CrewAI, AutoGen, LangGraph
-- **Large Language Models**: Fine-tuning, RAG, Prompt Engineering
-- **Cloud AI Services**: AWS Bedrock, Amazon Textract
-- **Automation**: n8n, Workflow Orchestration
-- **Voice AI**: Speech-to-Speech, TTS, STT
-- **Computer Vision**: OCR, License Plate Recognition, Document Analysis
-- **Mobile Development**: Flutter, Dart
-- **Integration Development**: Custom API connectors, MCP implementations
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Multi-Agent Systems (CrewAI, AutoGen)
+- Large Language Models (GPT-4, Claude, Llama)
+- RAG Architecture & Vector Databases
+- Fine-tuning & PEFT (LoRA, QLoRA)
+- Prompt Engineering
+- Computer Vision (OCR, Object Detection)
+- NLP & Text Processing
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS Bedrock & AI Services
+- Amazon Textract & Comprehend
+- AWS Lambda & Serverless
+- S3, EC2, SageMaker
+- Docker & Containerization
+- CI/CD Pipelines
+- Microservices Architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 🔄 Automation & Integration
+- n8n Workflow Automation
+- API Development & Integration
+- Event-Driven Architecture
+- Webhook Management
+- Custom Node Development
+- Process Automation
+- System Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## 📈 Contribution Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedehab35&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedehab35&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedehab35&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedehab35&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedehab35&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏅 Achievements & Metrics
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammedehab35&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Professional Services
+
+### What I Offer:
+
+- 🎯 **AI Solution Architecture** - Design and implement enterprise AI systems
+- 🤖 **Multi-Agent Development** - Build autonomous agent systems for complex workflows
+- 📊 **RAG Implementation** - Create scalable retrieval-augmented generation systems
+- 🔄 **Automation Consulting** - n8n workflow design and optimization
+- 🎓 **LLM Fine-tuning** - Custom model training and optimization
+- 🗣️ **Voice AI Development** - Speech-to-speech and conversational AI systems
+- ☁️ **AWS Bedrock Integration** - Cloud AI deployment and scaling
+- 🔧 **Custom Integration** - API development and system integration
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
+
+</div>
 
 ---
 
-## 💡 Current Focus
+## 💡 Current Focus Areas
 
-- Building production-ready multi-agent systems
-- Exploring advanced RAG architectures
-- Developing voice-enabled AI applications
-- Contributing to open-source AI tools
-- Creating practical AI solutions for business automation
+```javascript
+const currentFocus = {
+    learning: [
+        "Advanced Multi-Agent Architectures",
+        "Enterprise RAG Systems",
+        "LLM Optimization Techniques",
+        "Distributed AI Systems"
+    ],
+    building: [
+        "Production-ready AI Agents",
+        "Scalable RAG Solutions",
+        "Voice-enabled Applications",
+        "Custom n8n Integrations"
+    ],
+    exploring: [
+        "Anthropic's Claude API",
+        "LangGraph for complex workflows",
+        "AWS Bedrock advanced features",
+        "Real-time AI applications"
+    ]
+};
+```
 
 ---
 
-⭐️ From [muhammedehab35](https://github.com/muhammedehab35)
+## 📝 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon: Articles on AI engineering, multi-agent systems, and automation
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎓 Certifications & Training
+
+- ✅ AWS Certified Solutions Architect (In Progress)
+- ✅ Advanced Prompt Engineering Specialization
+- ✅ LangChain & LLM Applications
+- ✅ Multi-Agent Systems Development
+- ✅ n8n Certified Expert
+
+---
+
+<div align="center">
+
+### 💬 "Building the future of AI, one agent at a time"
+
+![Visitor Count](https://profile-counter.glitch.me/muhammedehab35/count.svg)
+
+**⭐️ If you find my work valuable, consider starring some repositories!**
+
+---
+
+*Last Updated: January 2026*
+
+</div>
