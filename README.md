@@ -1,1234 +1,344 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:064E3B,50:10B981,100:39FF14&height=200&section=header&text=Muhammed%20EHAB&fontSize=45&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Voice%20AI%20Specialist%20|%20Multi-Agent%20Architect&descAlignY=55&descSize=18&descColor=10B981"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%9A%80+Building+Production-Ready+AI+Systems;%F0%9F%8E%99%EF%B8%8F+Voice+AI+%26+Real-Time+Speech-to-Speech+Expert;%F0%9F%A4%96+LLM+Fine-Tuning+%26+Multi-Agent+Orchestration;%F0%9F%94%8C+MCP+%26+A2A+Protocol+Pioneer)](https://git.io/typing-svg)
+# MUHAMMED EHAB
 
-<br/>
+**AI Engineer** · **Voice AI Specialist** · **Multi-Agent Systems Architect**
 
-<a href="https://www.linkedin.com/in/mo-ehab-86ba952b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-<a href="mailto:muhammed35ehab@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-064E3B?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-</a>
-<a href="https://github.com/mo-ehab">
-  <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mo-ehab&style=for-the-badge&color=064E3B&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/mo-ehab?style=for-the-badge&color=064E3B&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/badge/Focus-Voice_AI_&_Agents-39FF14?style=for-the-badge&labelColor=064E3B" alt="Focus"/>
-<img src="https://img.shields.io/badge/Location-Tunis,_Tunisia-10B981?style=for-the-badge&labelColor=064E3B" alt="Location"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-064E3B?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/mo-ehab-86ba952b2/)
+[![Email](https://img.shields.io/badge/Email-064E3B?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:muhammed35ehab@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-064E3B?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/mo-ehab)
+[![Location](https://img.shields.io/badge/Tunis,_Tunisia-064E3B?style=flat-square&logoColor=39FF14)](https://github.com/mo-ehab)
 
 </div>
-
-<br/>
-
-<!-- ABOUT SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> &nbsp;About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="200" />
-
-I'm an **AI Engineer** based in **Tunis, Tunisia** 🇹🇳, passionate about building **production-ready AI systems** that make a real impact. My expertise spans the complete AI development lifecycle—from **fine-tuning multimodal models** to deploying **real-time voice-to-call automation systems**.
-
-<br/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25"/> &nbsp;What Defines Me:
-
-```typescript
-const muhammedEhab = {
-    title: "AI Engineer",
-    location: "Tunis, Tunisia 🇹🇳",
-    
-    expertise: {
-        voiceAI: ["Speech-to-Speech", "Neural TTS/STT", "Real-time Audio", "VAD"],
-        llms: ["Fine-tuning", "RAG", "Prompt Engineering", "Multimodal Models"],
-        agents: ["LangChain", "LangGraph", "CrewAI", "MCP", "A2A Protocol"],
-        production: ["FastAPI", "Docker", "AWS", "WebSockets", "Redis"]
-    },
-    
-    languages: {
-        arabic: "Native 🇹🇳",
-        french: "Fluent 🇫🇷", 
-        english: "Fluent 🇬🇧"
-    },
-    
-    currentlyBuilding: "The future of conversational AI 🚀",
-    
-    achievements: [
-        "🥇 Hackathon Winner 2025 - Travel Buddy",
-        "🎯 3+ Production Voice AI Systems",
-        "🤖 Multi-Agent Systems for Finance & Legal",
-        "📈 LLaVA Fine-tuning for Document Intelligence",
-        "🔧 Early MCP Protocol Adopter"
-    ]
-};
-```
-
-<br clear="both"/>
-
-<!-- STATS SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> &nbsp;GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mo-ehab&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=10B981&text_color=10B981&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ehab&layout=compact&hide_border=true&title_color=39FF14&text_color=10B981&bg_color=0d1117&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-ehab&theme=black-ice&hide_border=true&stroke=39FF14&ring=39FF14&fire=10B981&currStreakLabel=39FF14&sideLabels=10B981&currStreakNum=39FF14&sideNums=10B981&dates=10B981&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-ehab&custom_title=Contribution%20Graph&bg_color=0d1117&color=39FF14&line=10B981&point=39FF14&area_color=064E3B&title_color=39FF14&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo-ehab&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
-
-<br/>
-
-<!-- ACHIEVEMENTS SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> &nbsp;Achievements & Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="60"/>
-<br/><b style="color:#39FF14">Hackathon Winner</b>
-<br/><sub>Travel Buddy 2025</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="60"/>
-<br/><b style="color:#39FF14">Voice AI Pioneer</b>
-<br/><sub>3+ Production Systems</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="60"/>
-<br/><b style="color:#39FF14">Multi-Agent Expert</b>
-<br/><sub>Finance, Legal, Education</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60"/>
-<br/><b style="color:#39FF14">LLM Specialist</b>
-<br/><sub>LLaVA Fine-tuning</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="60"/>
-<br/><b style="color:#39FF14">MCP Pioneer</b>
-<br/><sub>Early Adopter</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- EXPERIENCE SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" /> &nbsp;Professional Experience
-
-<br/>
-
-### <img src="https://img.shields.io/badge/AXE--FINANCE-064E3B?style=for-the-badge&logoColor=39FF14" /> &nbsp; AI Engineer — 2025
-
-<div align="center">
-
-#### 🏗️ Enterprise Knowledge Orchestration MCP Server
-
-</div>
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png"/>
-
-Designed and deployed a **Model Context Protocol (MCP)** platform that revolutionized enterprise knowledge management.
-
-<br/>
-
-**🔧 Technical Architecture:**
-
-```
-📄 Documents → 🔍 Extraction → 🏷️ Metadata Tagging
-                    ↓
-         ✂️ Intelligent Chunking
-                    ↓
-         🧮 Embedding Generation
-                    ↓
-         💾 Vector Database Storage
-                    ↓
-         🔌 MCP Server Exposure
-                    ↓
-🤖 LLM Clients (Cursor, VSCode, Assistants)
-```
-
-**💡 Key Implementations:**
-- Built modular MCP server in Python with **FastMCP, Typer, Torch, Uvicorn**
-- Integrated with multiple LLM clients: **Cursor, VSCode, internal assistants**
-- Developed advanced data ingestion with **automated extraction & semantic indexing**
-- Implemented **hybrid search (Vector + BM25)** with re-ranking algorithms
-- Privacy-preserving **on-premise deployment** with granular access control
-
-<br/>
-
-**📊 Performance Metrics:**
-
-<div align="center">
-
-| Metric | Before | After | Improvement |
-|:------:|:------:|:-----:|:-----------:|
-| 🔍 Search Time | 15 min | 4 min | **-73%** |
-| 📚 Documents Indexed | 0 | 10,000+ | **∞** |
-| ⚡ Query Latency | N/A | <2s | **✓** |
-| 😊 User Satisfaction | N/A | 95% | **✓** |
-
-</div>
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![PyTorch](https://img.shields.io/badge/PyTorch-064E3B?style=for-the-badge&logo=pytorch&logoColor=39FF14)
-![Redis](https://img.shields.io/badge/Redis-064E3B?style=for-the-badge&logo=redis&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/Docker-064E3B?style=for-the-badge&logo=docker&logoColor=39FF14)
-
-<br clear="both"/>
 
 ---
 
-### <img src="https://img.shields.io/badge/EY-064E3B?style=for-the-badge&logoColor=39FF14" /> &nbsp; AI Engineer — 2024
+## About
 
-<div align="center">
-
-#### 🧠 Fine-Tuning Multimodal LLaVA for Financial Document Intelligence
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png"/>
-
-Fine-tuned the **LLaVA vision-language model** on domain-specific financial datasets for structured information extraction from complex documents.
-
-<br/>
-
-**🔧 Multimodal Training Pipeline:**
-
-```
-📊 Financial Documents (Balance Sheets, Invoices)
-                    ↓
-         🔤 OCR Preprocessing
-                    ↓
-         👁️ Visual-Text Alignment
-                    ↓
-         📝 Instruction Tuning
-                    ↓
-         🎯 Fine-tuned LLaVA Model
-                    ↓
-         ⚡ Quantized Deployment (8-bit)
-```
-
-**💡 Key Achievements:**
-- Designed **custom multimodal training pipeline** combining OCR + visual-text alignment
-- Processed **balance sheets, invoices, and financial statements**
-- Deployed on **GPU-accelerated infrastructure** with optimized inference
-- Built **end-to-end document processing** with multi-agent validation
-- Achieved **production-ready performance** with 8-bit quantization
-
-<br/>
-
-**📊 Performance Metrics:**
-
-<div align="center">
-
-| Metric | Value | Industry Standard |
-|:------:|:-----:|:-----------------:|
-| 🎯 Extraction Accuracy | **94%** | 85% |
-| ⚡ Inference Speed | **1.5s/doc** | 3-5s/doc |
-| 💾 Model Optimization | **8-bit Quant** | 16-bit |
-| 📈 Throughput | **2400 docs/hr** | 1000 docs/hr |
-
-</div>
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![PyTorch](https://img.shields.io/badge/PyTorch-064E3B?style=for-the-badge&logo=pytorch&logoColor=39FF14)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-064E3B?style=for-the-badge&logo=huggingface&logoColor=39FF14)
-![CUDA](https://img.shields.io/badge/CUDA-064E3B?style=for-the-badge&logo=nvidia&logoColor=39FF14)
-![ONNX](https://img.shields.io/badge/ONNX-064E3B?style=for-the-badge&logo=onnx&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-### <img src="https://img.shields.io/badge/VALUE-064E3B?style=for-the-badge&logoColor=39FF14" /> &nbsp; AI Developer — 2023
-
-<div align="center">
-
-#### 📄 Smart Resume Analyzer
-
-</div>
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png"/>
-
-Developed a full-stack **AI-powered recruitment tool** using BERT-based models for semantic matching between resumes and job descriptions.
-
-<br/>
-
-**🔧 NLP Pipeline:**
-
-```
-📄 Resume Upload → 🔤 Text Extraction → 🏷️ NER (Skills)
-                                              ↓
-📋 Job Description → 🔤 Text Processing → 🎯 Semantic Match
-                                              ↓
-                                    📊 Multi-Criteria Scoring
-                                              ↓
-                                    💡 Improvement Suggestions
-```
-
-**💡 Scoring Algorithm:**
-| Criteria | Weight | Method |
-|:--------:|:------:|:------:|
-| 🛠️ Skills Match | 40% | NER + Exact Match |
-| 💼 Experience | 30% | Keyword Extraction |
-| 🎓 Education | 20% | Pattern Matching |
-| 🧠 Semantic | 10% | BERT Embeddings |
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/Flask-064E3B?style=for-the-badge&logo=flask&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=39FF14)
-![Hugging Face](https://img.shields.io/badge/BERT-064E3B?style=for-the-badge&logo=huggingface&logoColor=39FF14)
-
-<br clear="both"/>
-
-<br/>
-
-<!-- PROJECTS SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> &nbsp;Featured Projects
-
-<br/>
-
-<!-- PROJECT 1: TRAVEL BUDDY -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="30"/> Travel Buddy — AI-Powered Smart Travel Assistant
-
-<img src="https://img.shields.io/badge/🏆_HACKATHON_WINNER_2025-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png"/>
-
-Built an **AI travel assistant** in **48 hours** that makes **real phone calls** to hotels for reservations. This project won the hackathon by demonstrating end-to-end AI automation.
-
-<br/>
-
-**🏗️ Dual-Agent Architecture:**
-
-```
-┌─────────────────────────────────────────────────────┐
-│                  🎯 TRAVEL BUDDY                    │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  ┌───────────────┐         ┌───────────────┐       │
-│  │  🧭 AGENT 1   │         │  📞 AGENT 2   │       │
-│  │ Recommendation│         │    Booking    │       │
-│  ├───────────────┤         ├───────────────┤       │
-│  │ • Gemini LLM  │         │ • Twilio      │       │
-│  │ • Amadeus API │   ───►  │ • ElevenLabs  │       │
-│  │ • Google Maps │         │ • Voice Synth │       │
-│  │ • Preferences │         │ • Real Calls  │       │
-│  └───────────────┘         └───────────────┘       │
-│                                                     │
-│              ⚙️ n8n Orchestration                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-**💡 Key Features:**
-- 🗣️ **Voice-to-Call Automation** — AI makes actual phone calls to hotels
-- 🧠 **Smart Recommendations** — Personalized based on user preferences
-- 🗺️ **Google Maps Integration** — Visual trip planning
-- ✈️ **Amadeus API** — Real flight & hotel data
-- 🎤 **Neural Voice Synthesis** — Natural-sounding AI voice with ElevenLabs
-
-**🛠️ Tech Stack:**
-
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=39FF14)
-![Tailwind](https://img.shields.io/badge/Tailwind-064E3B?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
-![n8n](https://img.shields.io/badge/n8n-064E3B?style=for-the-badge&logo=n8n&logoColor=39FF14)
-![Twilio](https://img.shields.io/badge/Twilio-064E3B?style=for-the-badge&logo=twilio&logoColor=39FF14)
-![Google](https://img.shields.io/badge/Gemini-064E3B?style=for-the-badge&logo=google&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 2: VOCAL AGENT -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="30"/> Real-Time Speech-to-Speech AI Chatbot (Vocal Agent)
-
-<img src="https://img.shields.io/badge/⚡_SUB--SECOND_LATENCY-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png"/>
-
-A **cascading speech-to-speech system** achieving **sub-second latency** for real-time conversational AI experiences.
-
-<br/>
-
-**🏗️ Cascading Pipeline Architecture:**
-
-```
-🎙️ Audio Input
-      ↓
-┌─────────────────┐
-│  Silero VAD     │ ← Voice Activity Detection
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  Whisper ASR    │ ← Speech Recognition
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Llama 3.1 8B    │ ← Language Model (Ollama)
-│    + Agno       │ ← Agent Framework
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Kokoro-82M TTS  │ ← Neural Text-to-Speech
-│    (ONNX)       │
-└────────┬────────┘
-         ↓
-🔊 Audio Output
-```
-
-**💡 Key Features:**
-- ⚡ **Low-Latency Pipeline** — Optimized for real-time interaction
-- 🎯 **Voice Activity Detection** — Silero VAD for accurate speech detection
-- 🧠 **Extensible Agent Framework** — Agno LLM with tool integration
-- 🌐 **Web Tools** — Google Search, Wikipedia, Arxiv integration
-- 🔊 **Neural TTS** — High-quality voice synthesis with Kokoro
-
-**📊 Performance Metrics:**
-
-<div align="center">
-
-| Component | Latency | Model |
-|:---------:|:-------:|:-----:|
-| 🎙️ VAD | ~50ms | Silero |
-| 🔤 STT | ~300ms | Whisper |
-| 🧠 LLM | ~400ms | Llama 3.1 8B |
-| 🔊 TTS | ~200ms | Kokoro-82M |
-| **Total** | **<1s** | — |
-
-</div>
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![OpenAI](https://img.shields.io/badge/Whisper-064E3B?style=for-the-badge&logo=openai&logoColor=39FF14)
-![Ollama](https://img.shields.io/badge/Ollama-064E3B?style=for-the-badge&logo=ollama&logoColor=39FF14)
-![ONNX](https://img.shields.io/badge/ONNX-064E3B?style=for-the-badge&logo=onnx&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 3: AI VOICE ASSISTANT -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="30"/> AI Voice Assistant with Open-Source LLM
-
-<img src="https://img.shields.io/badge/🔄_FULL--STACK_APPLICATION-10B981?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png"/>
-
-A **full-stack voice assistant** application with **bidirectional audio streaming** and real-time NLP processing.
-
-<br/>
-
-**🏗️ Full-Stack Architecture:**
-
-```
-┌─────────────────────────────────────────────┐
-│            🎨 FRONTEND (Next.js)            │
-│  ┌─────────────────────────────────────┐    │
-│  │  React UI + Audio Handling          │    │
-│  │  Real-time Visualization            │    │
-│  └──────────────┬──────────────────────┘    │
-│                 │ WebSocket                 │
-│                 ↓                           │
-│  ┌─────────────────────────────────────┐    │
-│  │       🔌 WebSocket Layer            │    │
-│  │   Bidirectional Audio Streaming     │    │
-│  └──────────────┬──────────────────────┘    │
-└─────────────────┼───────────────────────────┘
-                  ↓
-┌─────────────────────────────────────────────┐
-│           ⚙️ BACKEND (FastAPI)              │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐   │
-│  │ Deepgram │  │ Llama 3  │  │ Deepgram │   │
-│  │   STT    │→ │  (Groq)  │→ │   TTS    │   │
-│  └──────────┘  └──────────┘  └──────────┘   │
-└─────────────────────────────────────────────┘
-```
-
-**💡 Key Features:**
-- 🔄 **Bidirectional Streaming** — Real-time audio via WebSockets
-- ⚡ **Ultra-Fast Inference** — Llama 3 via Groq for low latency
-- 🎨 **Modern UI** — React Next.js with audio visualization
-- 📦 **Clean Architecture** — Poetry for dependency management
-
-**🛠️ Tech Stack:**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Next.js](https://img.shields.io/badge/Next.js-064E3B?style=for-the-badge&logo=nextdotjs&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=39FF14)
-![WebSocket](https://img.shields.io/badge/WebSocket-064E3B?style=for-the-badge&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 4: MCP SERVER -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="30"/> Enterprise Knowledge Orchestration MCP Server
-
-<img src="https://img.shields.io/badge/🔌_MODEL_CONTEXT_PROTOCOL-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png"/>
-
-A **production-grade MCP server** for intelligent enterprise knowledge management and semantic document search.
-
-<br/>
-
-**🔧 MCP Tools Exposed:**
+AI Engineer specializing in **Large Language Models**, **Voice AI**, and **Multi-Agent Systems**. I build production-ready AI solutions using cutting-edge protocols including **MCP**, **ACP**, and **Agent-to-Agent** communication.
 
 ```python
-@mcp.tool()
-async def search_documents(
-    query: str,
-    filters: Optional[Dict] = None,
-    top_k: int = 10
-) -> List[Document]:
-    """Semantic search across enterprise knowledge base"""
-    
-@mcp.tool()
-async def get_document(
-    doc_id: str,
-    include_metadata: bool = True
-) -> Document:
-    """Retrieve specific document by ID"""
-    
-@mcp.tool()
-async def list_sources() -> List[Source]:
-    """List all available data sources"""
-    
-@mcp.tool()
-async def summarize_context(
-    context: str,
-    max_length: int = 500
-) -> str:
-    """Generate contextual summary"""
-```
-
-**🏗️ Data Pipeline:**
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                  📥 DATA INGESTION                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  📄 PDF  📝 DOCX  🌐 HTML  📋 Markdown  📊 CSV          │
-│     │       │        │          │          │             │
-│     └───────┴────────┴──────────┴──────────┘             │
-│                        ↓                                 │
-│              🔍 Content Extraction                       │
-│                        ↓                                 │
-│              🏷️ Metadata Tagging                        │
-│                        ↓                                 │
-│              ✂️ Intelligent Chunking                     │
-│                        ↓                                 │
-│              🧮 Embedding Generation                     │
-│                        ↓                                 │
-│              💾 Vector Database                          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastMCP-064E3B?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Redis](https://img.shields.io/badge/Redis-064E3B?style=for-the-badge&logo=redis&logoColor=39FF14)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-064E3B?style=for-the-badge&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 5: LEGAL AI -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" width="30"/> Legal Knowledge RAG Platform (LEGAL-AI)
-
-<img src="https://img.shields.io/badge/⚖️_ZERO_HALLUCINATIONS-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png"/>
-
-An **MCP-based RAG system** for legal professionals with **forced citations** and **zero hallucinations**.
-
-<br/>
-
-**🔧 MCP Legal Tools:**
-
-| Tool | Description | Use Case |
-|:----:|:-----------:|:--------:|
-| `search_case_law` | Search jurisprudence | Find precedents |
-| `find_similar_cases` | Similarity matching | Case comparison |
-| `extract_clauses` | Clause extraction | Contract analysis |
-| `summarize_statute` | Law summarization | Quick reference |
-
-**🏗️ RAG Pipeline:**
-
-```
-┌─────────────────────────────────────────────────┐
-│              ⚖️ LEGAL RAG PIPELINE              │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  📚 Legal Corpus                               │
-│     │                                           │
-│     ↓                                           │
-│  ✂️ Legal-Specialized Chunking                 │
-│     • By article/section                        │
-│     • Preserve legal structure                  │
-│     │                                           │
-│     ↓                                           │
-│  🧮 Legal-BERT Embeddings                      │
-│     │                                           │
-│     ↓                                           │
-│  🔍 Hybrid Search                              │
-│     • Vector similarity                         │
-│     • BM25 keyword matching                     │
-│     • Re-ranking                                │
-│     │                                           │
-│     ↓                                           │
-│  📝 FORCED CITATIONS                           │
-│     • Every claim must be sourced               │
-│     • Zero hallucinations guaranteed            │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-**📊 Performance:**
-
-<div align="center">
-
-| Metric | Value | Guarantee |
-|:------:|:-----:|:---------:|
-| 🎯 Precision | **92%** | High |
-| 📊 Recall | **88%** | High |
-| 🚫 Hallucinations | **0%** | Guaranteed |
-| 📝 Citation Rate | **100%** | Forced |
-
-</div>
-
-**🛠️ Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![Neo4j](https://img.shields.io/badge/Neo4j-064E3B?style=for-the-badge&logo=neo4j&logoColor=39FF14)
-![Qdrant](https://img.shields.io/badge/Qdrant-064E3B?style=for-the-badge&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 6: CUSTOMER SUPPORT -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30"/> Intelligent Customer Support Agent
-
-<img src="https://img.shields.io/badge/🤖_MULTI--AGENT_SYSTEM-10B981?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png"/>
-
-A **multi-agent AI system** using **CrewAI** and **LangChain** for automated customer service with specialized agents.
-
-<br/>
-
-**🏗️ Multi-Agent Architecture:**
-
-```
-┌─────────────────────────────────────────────────────┐
-│              🤖 CREWAI ORCHESTRATION                │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  📨 Customer Query                                  │
-│         │                                           │
-│         ↓                                           │
-│  ┌─────────────────┐                               │
-│  │  🎯 TRIAGE      │ Classification & Routing      │
-│  └────────┬────────┘                               │
-│           │                                         │
-│     ┌─────┴─────┐                                  │
-│     ↓           ↓                                  │
-│  ┌──────┐   ┌──────┐                               │
-│  │📚 KB │   │🔧Tech│  Specialized Processing      │
-│  │Expert│   │Supp. │                               │
-│  └──┬───┘   └──┬───┘                               │
-│     │          │                                    │
-│     └────┬─────┘                                   │
-│          ↓                                          │
-│  ┌─────────────────┐                               │
-│  │  ✍️ RESPONSE    │ Tone-Adjusted Output          │
-│  │   GENERATOR     │                               │
-│  └────────┬────────┘                               │
-│           ↓                                         │
-│  📤 Final Response                                  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-**🤖 Agent Roles:**
-
-| Agent | Role | Tools |
-|:-----:|:----:|:-----:|
-| 🎯 **Triage** | Query classification | Intent classifier |
-| 📚 **KB Expert** | Knowledge search | Semantic search |
-| 🔧 **Tech Support** | Technical issues | Log analyzer |
-| ✍️ **Response Writer** | Final response | Tone adjuster |
-
-**📊 Results:**
-
-<div align="center">
-
-| Metric | Before | After | Change |
-|:------:|:------:|:-----:|:------:|
-| 🤖 Auto Resolution | 30% | **70%** | +133% |
-| ⏱️ Response Time | 24h | **15s** | -99.98% |
-| 😊 Satisfaction | 3.2/5 | **4.1/5** | +28% |
-| 🌙 Availability | 8h/day | **24/7** | +200% |
-
-</div>
-
-**🛠️ Tech Stack:**
-
-![LangChain](https://img.shields.io/badge/LangChain-064E3B?style=for-the-badge&logo=chainlink&logoColor=39FF14)
-![CrewAI](https://img.shields.io/badge/CrewAI-064E3B?style=for-the-badge&logoColor=39FF14)
-![OpenAI](https://img.shields.io/badge/GPT--4-064E3B?style=for-the-badge&logo=openai&logoColor=39FF14)
-![Redis](https://img.shields.io/badge/Redis-064E3B?style=for-the-badge&logo=redis&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 7: LANGGRAPH -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="30"/> Conversational Document Assistant with LangGraph
-
-<img src="https://img.shields.io/badge/🧠_STATEFUL_CONVERSATIONS-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png"/>
-
-An **AI-powered assistant** using **LangGraph** for stateful document navigation and conversational querying.
-
-<br/>
-
-**💡 Why LangGraph over Traditional RAG?**
-
-| Feature | Traditional RAG | LangGraph |
-|:-------:|:---------------:|:---------:|
-| 🔄 State | Stateless | **Stateful** |
-| 🧠 Memory | Per-query | **Conversation-wide** |
-| 🔗 References | No resolution | **"it", "that" resolved** |
-| 📊 Context | Single query | **Full history** |
-| 🎯 Adaptation | None | **Dynamic** |
-
-**🏗️ State Machine Architecture:**
-
-```
-┌─────────────────────────────────────────────────┐
-│            🧠 LANGGRAPH STATE MACHINE           │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  📥 User Query                                  │
-│         │                                       │
-│         ↓                                       │
-│  ┌─────────────────┐                           │
-│  │ 🔍 QUERY        │ Analyze intent            │
-│  │    ANALYZER     │ Check references          │
-│  └────────┬────────┘                           │
-│           │                                     │
-│     ┌─────┴─────┐                              │
-│     ↓           ↓                              │
-│  [NEW TOPIC] [REFERENCE]                       │
-│     │           │                              │
-│     ↓           ↓                              │
-│  ┌──────┐   ┌──────────┐                       │
-│  │📚 RAG│   │🔗 RESOLVE│ Entity tracking       │
-│  │Search│   │ CONTEXT  │ "it" → actual entity  │
-│  └──┬───┘   └────┬─────┘                       │
-│     │            │                              │
-│     └─────┬──────┘                             │
-│           ↓                                     │
-│  ┌─────────────────┐                           │
-│  │ 💾 UPDATE       │ Store in memory graph     │
-│  │    MEMORY       │                           │
-│  └────────┬────────┘                           │
-│           ↓                                     │
-│  📤 Contextual Response                        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-**🛠️ Tech Stack:**
-
-![LangChain](https://img.shields.io/badge/LangGraph-064E3B?style=for-the-badge&logo=chainlink&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/Flask-064E3B?style=for-the-badge&logo=flask&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=39FF14)
-![WebSocket](https://img.shields.io/badge/WebSocket-064E3B?style=for-the-badge&logoColor=39FF14)
-
-<br clear="both"/>
-
----
-
-<!-- PROJECT 8: ABACUS FINBOT -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="30"/> Abacus FinBot — Multi-Agent Financial Platform
-
-<img src="https://img.shields.io/badge/⭐_ARCHITECTURE_SCORE_9.2/10-39FF14?style=for-the-badge&labelColor=064E3B"/>
-
-</div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png"/>
-
-An **enterprise-grade financial analysis platform** with **Sharia compliance** — the **first-in-industry** AI agent for Islamic finance.
-
-<br/>
-
-**🏗️ Three Specialized Agents:**
-
-```
-┌─────────────────────────────────────────────────────┐
-│              💰 ABACUS FINBOT                       │
-│              Architecture Score: 9.2/10             │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  ┌─────────────────────────────────────────────┐   │
-│  │  💬 AGENT 1: FinBot Chat                    │   │
-│  │  • Conversational financial analysis        │   │
-│  │  • Dual-format visualization               │   │
-│  │  • Plotly (interactive) + Matplotlib       │   │
-│  └─────────────────────────────────────────────┘   │
-│                                                     │
-│  ┌─────────────────────────────────────────────┐   │
-│  │  📈 AGENT 2: Stock Analysis                 │   │
-│  │  • 6-stage GPT-4o pipeline                 │   │
-│  │  • 20+ financial metrics                   │   │
-│  │  • Real-time Yahoo Finance data            │   │
-│  └─────────────────────────────────────────────┘   │
-│                                                     │
-│  ┌─────────────────────────────────────────────┐   │
-│  │  🕌 AGENT 3: Sharia Expert ⭐ FIRST-IN-INDUSTRY│
-│  │  • Islamic finance compliance              │   │
-│  │  • Halal/Haram automated screening         │   │
-│  │  • Real-time web research                  │   │
-│  │  • Halal alternatives suggestions          │   │
-│  └─────────────────────────────────────────────┘   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-**🕌 Sharia Compliance Engine:**
-
-```python
-sharia_screening = {
-    "financial_ratios": {
-        "debt_to_market_cap": {"limit": 33.0, "type": "percentage"},
-        "interest_income": {"limit": 5.0, "type": "percentage"},
-        "accounts_receivable": {"limit": 49.0, "type": "percentage"}
-    },
-    "prohibited_sectors": [
-        "alcohol", "gambling", "pork", 
-        "interest_based_finance", "weapons",
-        "adult_entertainment"
-    ],
-    "automated_analysis": True,
-    "halal_alternatives": True,
-    "confidence_scoring": True
+expertise = {
+    "voice_ai": ["Speech-to-Speech", "Neural TTS/STT", "Real-time Audio", "VAD"],
+    "llms": ["Fine-tuning", "RAG", "Prompt Engineering", "Multimodal"],
+    "agents": ["LangChain", "LangGraph", "CrewAI", "MCP", "A2A"],
+    "stack": ["FastAPI", "React", "Docker", "AWS", "WebSockets"]
 }
 ```
 
-**📊 Architecture Assessment:**
+---
+
+## Stats
 
 <div align="center">
 
-| Category | Score | Notes |
-|:--------:|:-----:|:-----:|
-| 🧩 Modularity | 10/10 | Perfect agent isolation |
-| 💡 Innovation | 9.5/10 | Market-first features |
-| ⚡ Performance | 8.5/10 | Sub-20s responses |
-| 🔒 Security | 9/10 | Enterprise-ready |
-| 📈 Scalability | 9/10 | Cloud-native |
-| **Overall** | **9.2/10** | **Production-ready** |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mo-ehab&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=c9d1d9&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ehab&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&hide_title=true" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-ehab&hide_border=true&background=0d1117&stroke=10B981&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=10B981&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" />
 
 </div>
 
-**🛠️ Tech Stack:**
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Streamlit](https://img.shields.io/badge/Streamlit-064E3B?style=for-the-badge&logo=streamlit&logoColor=39FF14)
-![OpenAI](https://img.shields.io/badge/GPT--4o-064E3B?style=for-the-badge&logo=openai&logoColor=39FF14)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-064E3B?style=for-the-badge&logoColor=39FF14)
+## Experience
 
-<br clear="both"/>
+### AXE-FINANCE · AI Engineer · 2025
 
-<br/>
+**Enterprise Knowledge Orchestration MCP Server**
 
-<!-- TECH STACK SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+Built a Model Context Protocol platform for enterprise knowledge management with intelligent document retrieval.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> &nbsp;Tech Stack & Tools
+| Metric | Result |
+|--------|--------|
+| Search Time | -73% |
+| Documents Indexed | 10,000+ |
+| Query Latency | <2s |
+| User Satisfaction | 95% |
 
-<br/>
+```
+Stack: Python · FastMCP · PyTorch · Redis · ChromaDB · Docker
+```
 
-### 💻 Programming Languages
+---
 
-<div align="center">
+### EY · AI Engineer · 2024
 
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-064E3B?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-064E3B?style=for-the-badge&logo=typescript&logoColor=39FF14)
-![Java](https://img.shields.io/badge/Java-064E3B?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-064E3B?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Bash](https://img.shields.io/badge/Bash-064E3B?style=for-the-badge&logo=gnubash&logoColor=39FF14)
-![C](https://img.shields.io/badge/C-064E3B?style=for-the-badge&logo=c&logoColor=39FF14)
-![C#](https://img.shields.io/badge/C%23-064E3B?style=for-the-badge&logo=csharp&logoColor=39FF14)
+**Fine-Tuning LLaVA for Financial Document Intelligence**
 
-</div>
+Fine-tuned vision-language model for structured extraction from financial documents.
 
-### 🤖 AI & Machine Learning
+| Metric | Result |
+|--------|--------|
+| Extraction Accuracy | 94% |
+| Inference Speed | 1.5s/doc |
+| Model Optimization | 8-bit quantization |
 
-<div align="center">
+```
+Stack: Python · PyTorch · HuggingFace · CUDA · ONNX
+```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-064E3B?style=for-the-badge&logo=pytorch&logoColor=39FF14)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-064E3B?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-064E3B?style=for-the-badge&logo=huggingface&logoColor=39FF14)
-![ONNX](https://img.shields.io/badge/ONNX-064E3B?style=for-the-badge&logo=onnx&logoColor=39FF14)
-![OpenCV](https://img.shields.io/badge/OpenCV-064E3B?style=for-the-badge&logo=opencv&logoColor=39FF14)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-064E3B?style=for-the-badge&logo=scikitlearn&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-064E3B?style=for-the-badge&logo=pandas&logoColor=39FF14)
-![NumPy](https://img.shields.io/badge/NumPy-064E3B?style=for-the-badge&logo=numpy&logoColor=39FF14)
+---
 
-</div>
+### VALUE · AI Developer · 2023
 
-### 🧠 LLMs & Generative AI
+**Smart Resume Analyzer**
 
-<div align="center">
+Full-stack AI recruitment tool using BERT for semantic matching.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-064E3B?style=for-the-badge&logo=openai&logoColor=39FF14)
-![Anthropic](https://img.shields.io/badge/Claude-064E3B?style=for-the-badge&logo=anthropic&logoColor=39FF14)
-![Google](https://img.shields.io/badge/Gemini-064E3B?style=for-the-badge&logo=google&logoColor=39FF14)
-![Meta](https://img.shields.io/badge/Llama-064E3B?style=for-the-badge&logo=meta&logoColor=39FF14)
-![Mistral](https://img.shields.io/badge/Mistral-064E3B?style=for-the-badge&logoColor=39FF14)
-![Ollama](https://img.shields.io/badge/Ollama-064E3B?style=for-the-badge&logo=ollama&logoColor=39FF14)
-![Groq](https://img.shields.io/badge/Groq-064E3B?style=for-the-badge&logoColor=39FF14)
+```
+Stack: Python · Flask · React · BERT · HuggingFace
+```
 
-</div>
+---
 
-### 🎙️ Voice AI & Speech
-
-<div align="center">
-
-![Whisper](https://img.shields.io/badge/Whisper-064E3B?style=for-the-badge&logo=openai&logoColor=39FF14)
-![Deepgram](https://img.shields.io/badge/Deepgram-064E3B?style=for-the-badge&logoColor=39FF14)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-064E3B?style=for-the-badge&logoColor=39FF14)
-![Twilio](https://img.shields.io/badge/Twilio-064E3B?style=for-the-badge&logo=twilio&logoColor=39FF14)
-![Kokoro](https://img.shields.io/badge/Kokoro_TTS-064E3B?style=for-the-badge&logoColor=39FF14)
-![Silero](https://img.shields.io/badge/Silero_VAD-064E3B?style=for-the-badge&logoColor=39FF14)
-
-</div>
-
-### 🤖 Agent Frameworks & Protocols
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-064E3B?style=for-the-badge&logo=chainlink&logoColor=39FF14)
-![LangGraph](https://img.shields.io/badge/LangGraph-064E3B?style=for-the-badge&logoColor=39FF14)
-![CrewAI](https://img.shields.io/badge/CrewAI-064E3B?style=for-the-badge&logoColor=39FF14)
-![Agno](https://img.shields.io/badge/Agno-064E3B?style=for-the-badge&logoColor=39FF14)
-![n8n](https://img.shields.io/badge/n8n-064E3B?style=for-the-badge&logo=n8n&logoColor=39FF14)
-![MCP](https://img.shields.io/badge/MCP-064E3B?style=for-the-badge&logoColor=39FF14)
-![Vapi](https://img.shields.io/badge/Vapi-064E3B?style=for-the-badge&logoColor=39FF14)
-
-</div>
-
-### 🔧 Backend & APIs
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/Flask-064E3B?style=for-the-badge&logo=flask&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-064E3B?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-064E3B?style=for-the-badge&logo=springboot&logoColor=39FF14)
-![GraphQL](https://img.shields.io/badge/GraphQL-064E3B?style=for-the-badge&logo=graphql&logoColor=39FF14)
-![WebSocket](https://img.shields.io/badge/WebSocket-064E3B?style=for-the-badge&logoColor=39FF14)
-
-</div>
-
-### 🎨 Frontend & UI
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=39FF14)
-![Next.js](https://img.shields.io/badge/Next.js-064E3B?style=for-the-badge&logo=nextdotjs&logoColor=39FF14)
-![Angular](https://img.shields.io/badge/Angular-064E3B?style=for-the-badge&logo=angular&logoColor=39FF14)
-![Streamlit](https://img.shields.io/badge/Streamlit-064E3B?style=for-the-badge&logo=streamlit&logoColor=39FF14)
-![Tailwind](https://img.shields.io/badge/Tailwind-064E3B?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-064E3B?style=for-the-badge&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/CSS3-064E3B?style=for-the-badge&logo=css3&logoColor=39FF14)
-
-</div>
-
-### 🗄️ Databases & Storage
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-064E3B?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![MongoDB](https://img.shields.io/badge/MongoDB-064E3B?style=for-the-badge&logo=mongodb&logoColor=39FF14)
-![Redis](https://img.shields.io/badge/Redis-064E3B?style=for-the-badge&logo=redis&logoColor=39FF14)
-![Neo4j](https://img.shields.io/badge/Neo4j-064E3B?style=for-the-badge&logo=neo4j&logoColor=39FF14)
-![SQLite](https://img.shields.io/badge/SQLite-064E3B?style=for-the-badge&logo=sqlite&logoColor=39FF14)
-![Oracle](https://img.shields.io/badge/Oracle-064E3B?style=for-the-badge&logo=oracle&logoColor=39FF14)
-
-</div>
-
-### 📊 Vector Databases
-
-<div align="center">
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-064E3B?style=for-the-badge&logoColor=39FF14)
-![Qdrant](https://img.shields.io/badge/Qdrant-064E3B?style=for-the-badge&logoColor=39FF14)
-![Pinecone](https://img.shields.io/badge/Pinecone-064E3B?style=for-the-badge&logoColor=39FF14)
-![FAISS](https://img.shields.io/badge/FAISS-064E3B?style=for-the-badge&logoColor=39FF14)
-![Weaviate](https://img.shields.io/badge/Weaviate-064E3B?style=for-the-badge&logoColor=39FF14)
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-064E3B?style=for-the-badge&logo=docker&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/AWS-064E3B?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
-![Azure](https://img.shields.io/badge/Azure-064E3B?style=for-the-badge&logo=microsoftazure&logoColor=39FF14)
-![GCP](https://img.shields.io/badge/GCP-064E3B?style=for-the-badge&logo=googlecloud&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-064E3B?style=for-the-badge&logo=githubactions&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-064E3B?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Nginx](https://img.shields.io/badge/Nginx-064E3B?style=for-the-badge&logo=nginx&logoColor=39FF14)
-
-</div>
-
-### 🛠️ Development Tools
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-064E3B?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
-![Cursor](https://img.shields.io/badge/Cursor-064E3B?style=for-the-badge&logoColor=39FF14)
-![Jupyter](https://img.shields.io/badge/Jupyter-064E3B?style=for-the-badge&logo=jupyter&logoColor=39FF14)
-![Postman](https://img.shields.io/badge/Postman-064E3B?style=for-the-badge&logo=postman&logoColor=39FF14)
-![Poetry](https://img.shields.io/badge/Poetry-064E3B?style=for-the-badge&logo=poetry&logoColor=39FF14)
-
-</div>
-
-<br/>
-
-<!-- REPOSITORIES SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="35" /> &nbsp;Featured Repositories
-
-<div align="center">
-
-[![Vocal Agent](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=vocal-agent&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/vocal-agent)
-[![Travel Buddy](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=travel-buddy&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/travel-buddy)
-
-[![AI Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=ai-voice-assistant&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/ai-voice-assistant)
-[![MCP Crawler](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=mcp-crawler&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/mcp-crawler)
-
-[![LLaVA Finance](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=llava-finance&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/llava-finance)
-[![Abacus FinBot](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=abacus-finbot&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=10B981)](https://github.com/mo-ehab/abacus-finbot)
-
-</div>
-
-<br/>
-
-<!-- LANGUAGES SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="35" /> &nbsp;Languages
-
-<div align="center">
+## Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Hashtag.png" width="60"/>
-<br/><b>🇹🇳 Arabic</b>
-<br/><sub>Native</sub>
-<br/>
-<img src="https://progress-bar.dev/100/?width=150&color=39FF14"/>
+<td width="50%" valign="top">
+
+### Travel Buddy
+**Hackathon Winner 2025**
+
+AI travel assistant with voice-to-call automation. Makes real phone calls to hotels for reservations.
+
+```
+Agents: Recommendation + Booking
+Voice: Twilio + ElevenLabs
+Orchestration: n8n
+```
+
 </td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Hashtag.png" width="60"/>
-<br/><b>🇫🇷 French</b>
-<br/><sub>Fluent</sub>
-<br/>
-<img src="https://progress-bar.dev/95/?width=150&color=10B981"/>
+<td width="50%" valign="top">
+
+### Vocal Agent
+**Real-time Speech-to-Speech**
+
+Cascading speech system with sub-second latency.
+
+```
+Pipeline:
+Silero VAD → Whisper → Llama 3.1 → Kokoro TTS
+
+Total Latency: <1s
+```
+
 </td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Hashtag.png" width="60"/>
-<br/><b>🇬🇧 English</b>
-<br/><sub>Fluent</sub>
-<br/>
-<img src="https://progress-bar.dev/95/?width=150&color=10B981"/>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Voice Assistant
+**Full-Stack Application**
+
+Voice assistant with bidirectional audio streaming.
+
+```
+Backend: FastAPI + WebSockets
+Frontend: React + Next.js
+LLM: Llama 3 via Groq
+Speech: Deepgram
+```
+
+</td>
+<td width="50%" valign="top">
+
+### MCP Knowledge Server
+**Enterprise Documentation**
+
+Production MCP server for semantic document search.
+
+```
+Tools Exposed:
+- search_documents
+- get_document
+- list_sources
+- summarize_context
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Legal-AI
+**RAG Platform**
+
+MCP-based RAG for legal professionals. Zero hallucinations with forced citations.
+
+```
+Precision: 92%
+Recall: 88%
+Hallucinations: 0%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Customer Support Agent
+**Multi-Agent System**
+
+CrewAI + LangChain for automated support.
+
+```
+Agents: Triage → KB Expert → 
+        Tech Support → Response Writer
+
+Auto Resolution: 70%
+Response Time: 15s
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Document Assistant
+**LangGraph**
+
+Stateful conversational document navigation.
+
+```
+Features:
+- Memory graph
+- Entity tracking
+- Reference resolution
+- Context adaptation
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Abacus FinBot
+**Financial Platform**
+
+Multi-agent financial analysis with Sharia compliance.
+
+```
+Architecture Score: 9.2/10
+
+Agents:
+- FinBot Chat
+- Stock Analysis
+- Sharia Expert (First-in-industry)
+```
+
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-<!-- CURRENT FOCUS SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="35" /> &nbsp;Current Focus
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" width="80"/>
-<br/><b>🎙️ Voice AI</b>
-<br/><sub>Real-time Speech-to-Speech</sub>
-<br/><sub>Emotion Recognition</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="80"/>
-<br/><b>🤝 A2A Protocols</b>
-<br/><sub>Agent-to-Agent</sub>
-<br/><sub>Communication</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="80"/>
-<br/><b>🧠 Multimodal AI</b>
-<br/><sub>Vision + Language</sub>
-<br/><sub>+ Speech</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80"/>
-<br/><b>🚀 Production AI</b>
-<br/><sub>Scalable Deployment</sub>
-<br/><sub>Enterprise Solutions</sub>
-</td>
-</tr>
-</table>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-064E3B?style=flat-square&logo=python&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-064E3B?style=flat-square&logo=javascript&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-064E3B?style=flat-square&logo=typescript&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-064E3B?style=flat-square&logo=openjdk&logoColor=39FF14)
+![SQL](https://img.shields.io/badge/SQL-064E3B?style=flat-square&logo=postgresql&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-064E3B?style=flat-square&logo=gnubash&logoColor=39FF14)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-064E3B?style=flat-square&logo=pytorch&logoColor=39FF14)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-064E3B?style=flat-square&logo=tensorflow&logoColor=39FF14)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-064E3B?style=flat-square&logo=huggingface&logoColor=39FF14)
+![ONNX](https://img.shields.io/badge/ONNX-064E3B?style=flat-square&logo=onnx&logoColor=39FF14)
+![OpenCV](https://img.shields.io/badge/OpenCV-064E3B?style=flat-square&logo=opencv&logoColor=39FF14)
+
+**LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-064E3B?style=flat-square&logo=openai&logoColor=39FF14)
+![Claude](https://img.shields.io/badge/Claude-064E3B?style=flat-square&logo=anthropic&logoColor=39FF14)
+![Gemini](https://img.shields.io/badge/Gemini-064E3B?style=flat-square&logo=google&logoColor=39FF14)
+![Llama](https://img.shields.io/badge/Llama-064E3B?style=flat-square&logo=meta&logoColor=39FF14)
+![Ollama](https://img.shields.io/badge/Ollama-064E3B?style=flat-square&logo=ollama&logoColor=39FF14)
+![Groq](https://img.shields.io/badge/Groq-064E3B?style=flat-square&logoColor=39FF14)
+
+**Voice AI**
+
+![Whisper](https://img.shields.io/badge/Whisper-064E3B?style=flat-square&logo=openai&logoColor=39FF14)
+![Deepgram](https://img.shields.io/badge/Deepgram-064E3B?style=flat-square&logoColor=39FF14)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-064E3B?style=flat-square&logoColor=39FF14)
+![Twilio](https://img.shields.io/badge/Twilio-064E3B?style=flat-square&logo=twilio&logoColor=39FF14)
+
+**Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-064E3B?style=flat-square&logo=chainlink&logoColor=39FF14)
+![LangGraph](https://img.shields.io/badge/LangGraph-064E3B?style=flat-square&logoColor=39FF14)
+![CrewAI](https://img.shields.io/badge/CrewAI-064E3B?style=flat-square&logoColor=39FF14)
+![n8n](https://img.shields.io/badge/n8n-064E3B?style=flat-square&logo=n8n&logoColor=39FF14)
+![MCP](https://img.shields.io/badge/MCP-064E3B?style=flat-square&logoColor=39FF14)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=flat-square&logo=fastapi&logoColor=39FF14)
+![Flask](https://img.shields.io/badge/Flask-064E3B?style=flat-square&logo=flask&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/Node.js-064E3B?style=flat-square&logo=nodedotjs&logoColor=39FF14)
+![Spring](https://img.shields.io/badge/Spring-064E3B?style=flat-square&logo=springboot&logoColor=39FF14)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-064E3B?style=flat-square&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/Next.js-064E3B?style=flat-square&logo=nextdotjs&logoColor=39FF14)
+![Angular](https://img.shields.io/badge/Angular-064E3B?style=flat-square&logo=angular&logoColor=39FF14)
+![Streamlit](https://img.shields.io/badge/Streamlit-064E3B?style=flat-square&logo=streamlit&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/Tailwind-064E3B?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-064E3B?style=flat-square&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-064E3B?style=flat-square&logo=mongodb&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-064E3B?style=flat-square&logo=redis&logoColor=39FF14)
+![Neo4j](https://img.shields.io/badge/Neo4j-064E3B?style=flat-square&logo=neo4j&logoColor=39FF14)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-064E3B?style=flat-square&logoColor=39FF14)
+![Qdrant](https://img.shields.io/badge/Qdrant-064E3B?style=flat-square&logoColor=39FF14)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-064E3B?style=flat-square&logo=docker&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-064E3B?style=flat-square&logo=amazonaws&logoColor=39FF14)
+![Azure](https://img.shields.io/badge/Azure-064E3B?style=flat-square&logo=microsoftazure&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-064E3B?style=flat-square&logo=git&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-064E3B?style=flat-square&logo=linux&logoColor=39FF14)
 
 </div>
 
-<br/>
+---
 
-<!-- CONTACT SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="35" /> &nbsp;Let's Connect!
+## Repositories
 
 <div align="center">
 
-<br/>
+[![Vocal Agent](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=vocal-agent&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=c9d1d9)](https://github.com/mo-ehab/vocal-agent)
+[![Travel Buddy](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=travel-buddy&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=c9d1d9)](https://github.com/mo-ehab/travel-buddy)
 
-I'm always open to discussing **AI innovations**, **collaboration opportunities**, or **challenging projects**.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mo-ehab-86ba952b2/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-<a href="mailto:muhammed35ehab@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-064E3B?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-</a>
-<a href="https://github.com/mo-ehab">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-064E3B?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
-
-<br/><br/>
-
-### 📧 muhammed35ehab@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 📱 +216 55520742 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Tunis, Tunisia
-
-<br/>
+[![AI Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=ai-voice-assistant&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=c9d1d9)](https://github.com/mo-ehab/ai-voice-assistant)
+[![Abacus FinBot](https://github-readme-stats.vercel.app/api/pin/?username=mo-ehab&repo=abacus-finbot&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=10B981&text_color=c9d1d9)](https://github.com/mo-ehab/abacus-finbot)
 
 </div>
 
-<!-- FOOTER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
+
+## Languages
+
+| Language | Level |
+|----------|-------|
+| Arabic | Native |
+| French | Fluent |
+| English | Fluent |
+
+---
 
 <div align="center">
 
-<br/>
+**Open to collaborations and challenging AI projects**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=700&lines=%22Building+the+future+of+conversational+AI%2C;one+voice+at+a+time.%22+%F0%9F%9A%80" alt="Quote"/>
-
-<br/>
-
-### ⭐ If you find my work interesting, consider giving a star!
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/>
+muhammed35ehab@gmail.com · +216 55520742 · Tunis, Tunisia
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:39FF14&height=120&section=footer"/>
