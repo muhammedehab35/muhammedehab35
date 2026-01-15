@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mohamed Ehab
+# 👨‍💻 Muhammed Ehab
 
 ### AI Specialist Engineer | Multi-Agent Systems Architect | Automation Expert
 
