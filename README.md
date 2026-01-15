@@ -539,15 +539,6 @@ Computer vision system for Tunisian license plate detection and recognition.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedehab35&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedehab35&theme=tokyonight)
 
-</div>
-
----
-
-## 🏅 Achievements & Metrics
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammedehab35&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
